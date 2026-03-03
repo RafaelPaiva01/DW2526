@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "DW2526",
             "request": "launch",
@@ -9,10 +10,10 @@
             "webRoot": "${workspaceFolder}"
         },
         {
-            "name": "TESTEMOODLE",
+            "name": "WillianBlake",
             "request": "launch",
             "type": "msedge",
-            "url": "http://localhost:8080/dw2526/TESTEMOODLE/index.html",
+            "url": "http://localhost:8080/dw2526/DW2526/WilliamBlake/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
