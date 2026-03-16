@@ -17,11 +17,11 @@
             "webRoot": "${workspaceFolder}"
         },
         {
-            "name": "AngelaRecipe",
+            "name": "AngelasRecipe",
             "request": "launch",
             "type": "msedge",
-            "url": "http://localhost:8080/dw2526/DW2526/AngelaRecipe/index.html",
+            "url": "http://localhost:8080/dw2526/DW2526/AngelasRecipe/index.html",
             "webRoot": "${workspaceFolder}"
-        },
+        }
     ]
 }
