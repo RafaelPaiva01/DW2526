@@ -15,6 +15,13 @@
             "type": "msedge",
             "url": "http://localhost:8080/dw2526/DW2526/WilliamBlake/index.html",
             "webRoot": "${workspaceFolder}"
-        }
+        },
+        {
+            "name": "AngelaRecipe",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080/dw2526/DW2526/AngelaRecipe/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
     ]
 }
