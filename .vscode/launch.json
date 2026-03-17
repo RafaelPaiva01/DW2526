@@ -29,6 +29,13 @@
             "type": "msedge",
             "url": "http://localhost:8080/dw2526/DW2526/CatOrDog/index.html",
             "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Birthday",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080/dw2526/DW2526/Birthday/index.html",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
